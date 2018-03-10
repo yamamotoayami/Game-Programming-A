@@ -3,7 +3,7 @@
 - Email:
 - 居室: 1号館2階247室
 
-## スケジュール
+## 講義資料
 ### 1. ガイダンス（GitHub導入，C言語復習）
 - [シラバス](https://github.com/MukaiClass/Game-Programming-A/wiki/シラバス)
 - [GitHubを利用した課題実施手順](https://github.com/MukaiClass/Game-Programming-A/wiki/GitHubを利用した課題実施手順)
