@@ -2,6 +2,7 @@
 - 担当教員： 向井智彦
 - Email:
 - 居室: 1号館2階247室
+- 講義全体に関する質問は [講義ページのIssue](https://github.com/MukaiClass/Game-Programming-A/issues)へ記載して下さい．個別課題に関する質問はそれぞれのIssueへ記載して下さい．
 
 ## 講義資料
 ### 1. ガイダンス（GitHub導入，C言語復習）
