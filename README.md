@@ -3,10 +3,10 @@
 
 ## スケジュール
 ### 1. ガイダンス（GitHub導入，C言語復習）
-- [シラバス](https://github.com/MukaiClass/Game-Programming-A/wiki/Syllabus)
-- [GitHubについて](https://github.com/MukaiClass/Game-Programming-A/wiki/AboutWorkflow)
-- [開発環境について](https://github.com/MukaiClass/Game-Programming-A/wiki/AboutTools)
-- [初回課題について](https://github.com/MukaiClass/Game-Programming-A/wiki/AboutFirstTrial)
+- [シラバス](https://github.com/MukaiClass/Game-Programming-A/wiki/シラバス)
+- [GitHubを利用した課題実施手順](https://github.com/MukaiClass/Game-Programming-A/wiki/GitHubを利用した課題実施手順)
+- [開発環境について](https://github.com/MukaiClass/Game-Programming-A/wiki/開発環境について)
+- [初回課題について](https://github.com/MukaiClass/Game-Programming-A/wiki/初回課題の実施方法)
 
 ### 2. 構造体とクラス
 ### 3. クラスとカプセル化
