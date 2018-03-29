@@ -1,7 +1,7 @@
 # ゲームプログラミング演習・実習A
 - 首都大学東京システムデザイン学部インダストリアルアートコース 2018年度春期
 - 担当教員： 向井智彦
-- Email:
+- Email: tmukai@tmu.ac.jp
 - 居室: 1号館2階247室
 - 講義全体に関する質問は [講義ページのIssue](https://github.com/MukaiClass/Game-Programming-A/issues)へ記載して下さい．個別課題に関する質問はそれぞれのIssueへ記載して下さい．
 
