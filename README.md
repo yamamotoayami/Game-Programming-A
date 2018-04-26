@@ -14,7 +14,10 @@
 
 ### 2. 構造体とクラス
 - [スライド資料](https://github.com/MukaiClass/Game-Programming-A/blob/slides/02構造体とクラス.pdf)
+
 ### 3. クラスメンバ
+- [スライド資料](https://github.com/MukaiClass/Game-Programming-A/blob/slides/03クラスとメンバ.pdf)
+
 ### 4. 値渡しと参照渡し
 ### 5. ポインタ、配列、文字列
 ### 6. ゲームループ
