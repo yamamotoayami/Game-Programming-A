@@ -7,7 +7,7 @@
 ## 講義資料
 ### 1. ガイダンス（GitHub導入，C言語復習）
 - [シラバス](https://github.com/MukaiClass/Game-Programming-A/wiki/シラバス)
-- [GitHubを利用した課題実施手順](https://github.com/MukaiClass/Game-Programming-A/wiki/GitHubを利用した課題実施手順)
+- [GitHubを利用した課題実施手順](https://github.com/MukaiClass/Game-Programming-A/wiki/GitHubを利用した課題実施手順)（4/27更新:プルリクの発行方法）
 - [開発環境について](https://github.com/MukaiClass/Game-Programming-A/wiki/開発環境について)
 - [初回課題の実施方法](https://github.com/MukaiClass/Game-Programming-A/wiki/初回課題の実施方法)
 - [ガイダンス資料(抜粋)](https://github.com/MukaiClass/Game-Programming-A/blob/slides/01ガイダンス.pdf)
