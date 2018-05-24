@@ -21,7 +21,7 @@
 ### 4. 値渡しと参照渡し、ポインタ
 - [スライド資料](https://github.com/MukaiClass/Game-Programming-A/blob/slides/04値渡しと参照渡し.pdf)
 
-### 5. ポインタ、配列、文字列
+### 5. リファクタリング演習
 - [スライド資料](https://github.com/MukaiClass/Game-Programming-A/blob/slides/05リファクタリング演習.pdf)
 
 ### 6. ゲームループ
