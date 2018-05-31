@@ -24,8 +24,10 @@
 ### 5. リファクタリング演習
 - [スライド資料](https://github.com/MukaiClass/Game-Programming-A/blob/slides/05リファクタリング演習.pdf)
 
-### 6. ゲームループ
-### 7. ゲームオブジェクト
+### 6. リファクタリング演習
+- [スライド資料](https://github.com/MukaiClass/Game-Programming-A/blob/slides/06リファクタリングアドバンス.pdf)
+
+### 7. ゲームループとゲームオブジェクト
 ### 8. アニメーション
 ### 9. イベント管理
 ### 10. 衝突処理
